@@ -1,2 +1,2 @@
 # Amber
-Portfolio website of amber
+Portfolio of amber
